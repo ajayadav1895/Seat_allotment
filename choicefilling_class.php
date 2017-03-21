@@ -67,10 +67,10 @@
 
     } 
 
-/*
+
 $obj = new choice();
 $obj->fillchoice($rollno,$firstchoice,$secondchoice,$thirdchoice,$fourthchoice,$fifthchoice);
-$obj->printChoiceFilling('m150059ca'); */
+$obj->printChoiceFilling('m150059ca');
 
 ?>
 
